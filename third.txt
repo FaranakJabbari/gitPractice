@@ -1,3 +1,0 @@
-this is the third file.
-
-the rhird file is the last file of our project.
