@@ -3,3 +3,5 @@ this is the third file.
 the third file is the last file of our project.
 
 also the 3rd line of text is here.
+
+today was sunny and i didn't like it :( ...
